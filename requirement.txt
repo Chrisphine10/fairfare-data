@@ -27,3 +27,4 @@ google-search-results
 beaker
 pylons
 pylonsfoo
+nomic
